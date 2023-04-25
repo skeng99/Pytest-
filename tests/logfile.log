@@ -1,0 +1,13 @@
+2023-04-17 10:03:57,987 :INFO : test_e2e :Login is done sucessfully
+2023-04-17 10:12:45,111 :INFO : test_e2e :Login is done sucessfully
+2023-04-17 10:12:47,355 :INFO : test_dashboard :welcome to form builder page
+2023-04-17 10:12:47,770 :INFO : test_formbuilder :Done mouse hover on Start From Scratch
+2023-04-17 10:12:49,233 :INFO : test_formbuilder :welcome to form drag and drop
+2023-04-17 10:13:17,571 :INFO : test_e2e :Login is done sucessfully
+2023-04-17 10:13:19,695 :INFO : test_dashboard :welcome to form builder page
+2023-04-17 10:20:04,061 :INFO : test_dashboard :welcome to form builder page
+2023-04-17 16:06:04,846 :INFO : test_dashboard :welcome to form builder page
+2023-04-17 16:06:05,257 :INFO : test_formbuilder :Done mouse hover on Start From Scratch
+2023-04-17 16:06:07,963 :INFO : test_formbuilder :welcome to form drag and drop
+2023-04-17 16:06:23,788 :INFO : test_dashboard :welcome to form builder page
+2023-04-17 16:06:58,362 :INFO : test_dashboard :welcome to form builder page
