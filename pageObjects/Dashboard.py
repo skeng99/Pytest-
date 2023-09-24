@@ -4,7 +4,6 @@ from selenium.webdriver.common.by import By
 class Dashboard:
     def __init__(self, driver):
         self.driver = driver
-
     user_registration = (By.ID, "toplevel_page_user-registration")
     add_new = (By.LINK_TEXT, "Add New")
 
